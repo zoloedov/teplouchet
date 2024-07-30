@@ -1,0 +1,1 @@
+SELECT * from all_names

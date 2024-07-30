@@ -1,0 +1,1 @@
+python c:\Python27\lib\site-packages\PyQt4\uic\pyuic.py report.ui -o report_ui.py

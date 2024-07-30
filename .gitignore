@@ -1,0 +1,11 @@
+build/
+dist/
+**.pyc
+*.spec
+*freeze*
+mainwindow_bkp.pyw
+*.exe
+opcthread_bkp.py
+tabbed_bkp.pyw
+tabbed_bkp_09.12.2019.ui
+test.py
